@@ -12,7 +12,7 @@
 
 <div align="center">
     <audio controls>
-        <source src="" type="audio/mpeg">
+        <source src="https://github.com/wellingtonamaral/bootcamp-dio-santander-podcast-com-IAs/blob/main/output/audio_editado.mp3" type="audio/mpeg">
     </audio>
 </div>
 <br>
